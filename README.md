@@ -1,6 +1,9 @@
 # Remington
 - A typing game for python developer
 
+## Preview
+[![Remington](screenshot/preview.gif?raw=true)](https://vimeo.com/157905359 "Remington")
+
 ## features
 - PyQt5
 - Python Standard Library Document
